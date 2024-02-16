@@ -1,0 +1,61 @@
+header{
+   
+    text-align: center;
+}
+.header{
+    padding-top: 300px ;
+    background-image: url(https://as1.ftcdn.net/v2/jpg/05/64/63/12/1000_F_564631298_U4k1ur9pKK2I871JDdDbthiMLIUywhus.jpg);
+    background-repeat: no-repeat;
+   background-position: center;
+
+}
+body{
+    background-color: pink;
+}
+ul{
+list-style-type: none;
+display: flex;
+
+justify-content: center;
+}
+img{
+    width: 70%;
+}
+.container{
+    border-style: solid;
+    padding-bottom: 10%;
+    background-image: url(https://wallpapers.com/images/featured/japan-cupyb43e8vl4w2n7.jpg);
+    background-repeat: no-repeat;
+}
+li{
+
+width: 100px;
+  
+height: 120px;
+border-style: solid;
+text-align: center;
+align-items: center;
+justify-content: center;
+border-color: rgb(137, 136, 136);
+color: rgb(8, 6, 6);
+  }
+  li:hover{
+    transition-duration: 0.5s;
+    width: 120px;
+  
+    height: 140px;
+  }
+  .categoria{
+    text-align: center;
+  }
+
+  .hiragana{
+    background-color: brown;
+  }
+  .katakana{
+    background-image: url(https://wallpapers.com/images/featured/japanese-art-3ztiwxubl0mm2qbt.jpg);
+    padding-bottom: 10%;
+  }
+  .hi{
+    background-color: rgb(2, 8, 106);
+  }
